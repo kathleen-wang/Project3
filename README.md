@@ -38,3 +38,28 @@ The user will have the ability to add item, delete and update listed items. Auth
   </li>
   </ul>
   </p>
+  
+  <h3>API Endpoints Documentation</h3>
+  <ul>
+  <li>Delete</li>
+  li>Insert</li>
+  li>Modify</li>
+  li>Find</li>
+  
+  <h3>Dependancies</h3>
+  <ul>
+  <li>Axios</li>
+  <li>bcrypt</li>
+  <li>React-Router-Dom</li>
+  <li>Faker</li>
+  <li>Express</li>
+  <li>body-parser</li>
+  <li>cors</li>
+  <li>jest</li>
+  <li>jsonwebtoken</li>
+  <li>mongoose</li>
+  <li>morgan</li>
+  <li>supertest</li>
+</ul>
+  
+</ul>
