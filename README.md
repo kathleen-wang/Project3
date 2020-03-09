@@ -45,6 +45,9 @@ The user will have the ability to add item, delete and update listed items. Auth
   <li>Insert</li>
   <li>Modify</li>
   <li>Find</li>
+  <li>sign-up</li>
+ <li>sign-in</li>
+  <li>change-password</li>
   </ul>
   
   <h3>Dependancies</h3>
