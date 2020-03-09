@@ -36,6 +36,7 @@ The user will have the ability to add item, delete and update listed items. Auth
   <li>
   React Hooks
   </li>
+  <li>Sold item list</li>
   </ul>
   </p>
   
