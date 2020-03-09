@@ -42,9 +42,9 @@ The user will have the ability to add item, delete and update listed items. Auth
   <h3>API Endpoints Documentation</h3>
   <ul>
   <li>Delete</li>
-  li>Insert</li>
-  li>Modify</li>
-  li>Find</li>
+  <li>Insert</li>
+  <li>Modify</li>
+  <li>Find</li>
   
   <h3>Dependancies</h3>
   <ul>
